@@ -14,3 +14,5 @@ class ExcelUtils:
     def update_status(self, row, status):
         self.sheet.cell(row=row, column=4, value=status)  # Update Status column
         self.wb.save(self.file_path)
+        print(f"Excel updated: Row {row}, Status {status}")  # Debug print
+
