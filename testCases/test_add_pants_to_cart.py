@@ -13,7 +13,7 @@ def test_add_pants_to_cart(driver):
 
     login_page = LoginPage(driver)
     login_page.click_sign_in()
-    login_page.enter_email("dipamshahgcet@gmail.com")  # Replace with actual test email
+    login_page.enter_email("ShahDipam@gcet.com")  # Replace with actual test email
     login_page.enter_password("#Luma10#")  # Replace with actual test password
     login_page.click_login()
 

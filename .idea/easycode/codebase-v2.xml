@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/pageObjects/LoginPage.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/pageObjects/RegisterPage.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/testCases/test_add_pants_to_cart.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/testCases/test_create_account.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/testCases/test_login.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/testData/testdata.json;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/utilities/CommonFunctions.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/utilities/ExcelUtils.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/conftest.py;C:/Users/Alian-172/Desktop/ECommerce_Projec_Automation_Testing/README.md" />
+  </component>
+</project>
