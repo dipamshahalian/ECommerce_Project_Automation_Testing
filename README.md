@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
 ![Pytest](https://img.shields.io/badge/Pytest-Framework-yellow)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A robust, scalable, and hybrid automation testing framework built using **Selenium**, **Python**, and **Pytest** to ensure high-quality assurance for a Magento-based E-Commerce platform.
 
@@ -108,13 +107,3 @@ Excel is automatically updated after test execution with **Pass/Fail** status.
 ## 🤝 Contribution
 
 Feel free to fork this project, raise issues, or contribute enhancements. Let’s build quality automation together!
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you want badges, logos, or extra instructions for Jenkins/Allure setup!
